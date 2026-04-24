@@ -15,7 +15,7 @@ Como o enunciado destaca que serão observados principalmente design de código,
 ### Usando pipe
 
 ```bash
-printf "nome1 40 50\nnome2 50 40\n" | node breath_of_fantasy.js
+printf "nome1 40 50\nnome2 50 40\n" | node breath-of-fantasy.js
 ```
 
 ### Usando arquivo de entrada
@@ -28,12 +28,12 @@ nome2 50 40
 
 Execute:
 ```bash
-node breath_of_fantasy.js < input.txt
+node breath-of-fantasy.js < input.txt
 ```
 
 ### Execução manual
 ```bash
-node breath_of_fantasy.js
+node breath-of-fantasy.js
 ```
 
 Digite:
